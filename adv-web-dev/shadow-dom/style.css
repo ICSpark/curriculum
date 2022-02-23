@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+}
+
+/* This will not override the color specified in the shadow element!*/
+.topnav {
+    background-color: aliceblue !important;
+}
