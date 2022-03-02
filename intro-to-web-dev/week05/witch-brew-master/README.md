@@ -60,9 +60,7 @@ To complete Part III, fulfill the following requirements in CSS:
 * border: 20px solid black;
 * background-color: pink;
 
-2. Now, we have what looks like our stew from the top view. Delicious! But, not quite magical just yet. Create an animation using CSS keyframes to change the background color of this brew continuously. Hint: https://www.w3schools.com/css/css3_animations.asp
-
-3. Use your creativity and imagination to make this site something Grandma Witch would be proud of! Use your knowledge of Flex Box and CSS properties to make your page nice and spooky. Shown below is one example of how you could lay out your page.
+2. Use your creativity and imagination to make this site something Grandma Witch would be proud of! Use your knowledge of Flex Box and CSS properties to make your page nice and spooky. Shown below is one example of how you could lay out your page.
 
 ![Example Layout](https://github.com/junior-devleague/witch-brew/blob/master/assets/example-layout.jpg)
 
@@ -113,3 +111,4 @@ if (batCount >= 3 && scaleCount >= 2) {
 ### Stretch Goals
 1. Add your own custom ingredient images to the mix.
 2. Create 3 more secret recipes using different comparison operators (==, !=, >, < ...etc.).
+3. Create an animation using CSS keyframes to change the background color of this brew continuously. Hint: https://www.w3schools.com/css/css3_animations.asp
