@@ -55,4 +55,4 @@ document.body.appendChild(para);
 
  
 ## Project in Breakout Sessions with Mentors
-* Go to: [Upgraded Chatbot](https://github.com/ICSpark/intro-to-web-dev/blob/master/07%20-%20Document%20Object%20Model%20Part%20I/project-chatbot.md)
+* Go to: [Upgraded Chatbot](https://github.com/ICSpark/archive/blob/main/intro-to-web-dev-20:21/08%20-%20Document%20Object%20Model%20Part%20II/upgraded-chatbot.md)
